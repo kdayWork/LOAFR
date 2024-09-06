@@ -157,3 +157,4 @@ We made some changes to the Context Diagram in the design template, as follows
 Here is the updated Context Diagram
 [Context Diagram](https://lucid.app/lucidchart/534284dd-3c88-44bc-a8bc-8d90d52a50ff/edit?invitationId=inv_1def9a05-6892-43be-99e0-1d0e7ab915e1&page=0_0#)
 
+Authors: Keenan Day, Luke Kobza, Jamison Grudem, Jonah Gaskill
