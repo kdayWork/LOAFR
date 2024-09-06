@@ -1,0 +1,30 @@
+[
+  {
+    "routineName": "1",
+    "eventName": "B",
+    "analysis": {
+      "type": [
+        "greaterThan",
+        "existsType"
+      ],
+      "component_name": "Y",
+      "value": 3,
+      "field": "g"
+    }
+  },
+  {
+    "routineName": "timeTest",
+    "eventName": "A",
+    "analysis": {
+      "type": [
+        "time"
+      ],
+      "component_name": "Y",
+      "value": 3,
+      "field": "g",
+      "timediff": 0,
+      "type1": "A",
+      "type2": "B"
+    }
+  }
+]
