@@ -76,13 +76,6 @@ src/main/java/org/example/*:
 
 Because we are developing with IntelliJ, to build we have just used the built in Build functionality. We then move the outputted jar file into the base directory to run.
 
-## Associated Files:
-[TestScript_ILogFilter](https://docs.google.com/document/d/1BIMgyLfp30sBo6SjvavGF1FxLLtvMYR3oXXsUYz50hw/edit?usp=sharing)  
-[TestScript_LogSort](https://docs.google.com/document/d/1L0700gbTxRre7x_hWlIH0RS4H_5BPwzMLVJxTaz_Mfg/edit?usp=sharing)  
-[TestScript_Analyzer](https://docs.google.com/document/d/1A77AHTq9SLcA_KFrVnGmN4AfCZ1DhiJYAZ4qhbjSXgc/edit?usp=sharing)  
-[TestScript_ConfigReader](https://docs.google.com/document/d/1K5N5XmuxJcAUhK914aDT8sCHeSPpElWos1xV0HPjF74/edit?usp=sharing)
-[TestScript_FileHandler](https://docs.google.com/document/d/18UiLFsWSql3rzpG8iP8TkprHsbOJpAWn1XSI1OPRaW0/edit?usp=sharing)
-[TestScript_NameChecker](https://docs.google.com/document/d/10ngZQihAGasG2ZWOTHGnM9UOhwQn3EA1OhiYGj3CR4k/edit?usp=sharing)
 
 ## End to End Scenario (Batch Processing):
 
